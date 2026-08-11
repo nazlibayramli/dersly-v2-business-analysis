@@ -45,4 +45,4 @@ proseslərinin təhlil edilməsi və sistem tələblərinin sənədləşdirilmə
 
 ## Layihə sənədi
 
-[Business Requirements Document (BRD)](./Dersly-v2-BRD.pdf)
+[Business Requirements Document (BRD)](Dersly-v2-BRD.pdf)
